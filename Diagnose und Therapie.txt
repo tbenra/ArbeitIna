@@ -1,0 +1,291 @@
+Geburtshilfe
+
+Schwangerschaft
+Nägele-Regel: 1 d der letzten Regel - 3 Mon + 7 d + 1 a +/- Zykluskorrektur
+Doppler-Untersuchungen
+	- A. umbilicalis: positiver enddiastolischer Fluss nötig (sonst erhöhter Widerstand im plazentaren Strombett -> H.a. Plazentainsuffizienz)
+	- A. cerebri media: H.a. fetale Anämie bei erhöhter V max; H.a. Nährstoffmangel bei Zentralisation = brain sparing = erhöhter enddiastolischer Fluss
+	- A. uterina: H.a. Präeklampsie bei Notch bds. durch erhöhtem Widerstand im plazentaren Strombett
+	-> IUGR, wenn SGA (< 10. Perzentile) + Oligohydramnion oder Doppler auffällig
+
+Schwangerschaftscholestase
+- T: Ursodeoxycholsäure, E ab 37+0
+
+Gestationsdiabetes
+- oGTT 50g (24+0 - 27+6) < 135 mg/dl, 75g 0h < 92 mg/dl, 1h < 180 mg/dl, 2h < 153 mg/dl
+- manifester DM bei Nüchtern-BZ > 126 mg/dl oder 2h-Wert > 200 mg/dl
+- BZ-, CTG-, Doppler-Kontrollen
+- T: Diät, dann ggf. Insulintherapie
+- T pp: 2 d pp 4-Punkt-Tagesprofil, oGTT-Wiederholung 6 Wochen postpartal
+
+Schwangerschaftshypertonie > 140/90 mmHg nach 20. SSW
+- T: alpha-Methyldopa / Presinol, Urapidil, Nifedipin
+
+Präeklampsie
+- early onset < 33+6, late onset 34+0 bis 10 d pp
+- > 140/90 mmHg + Organmanifestation (Prot/Krea-Quotient > 30 mg/mmol)
+- Präeklampsie-Marker: sFlt-1/PlGF < 38 = keine Präeklampsie in kommender Woche, > 85 (30. SSW) / > 110 (> 34. SSW) = drohende Präeklampsie
+- Prophylaxe eklamptischer Anfall: Mg 4-6 g i.v. über 20 min -> 1 g/h Erhaltungsdosis, Antidot Calciumgluconat
+- T: eklamptischer Anfall: Mg 4-6 g i.v. + Diazepam 10-20 mg i.v., Entbindung! 
+- Prophylaxe in nächster Gravidität: 80 - 150 mg ASS 16. SSW - 34. SSW
+
+HELPP-Syndrom
+- Hämolyse: Hb niedrig, Haptoglobin verbraucht, Bilirubin erhöht
+- erhöhte Leberwerte: TA erhöht
+- low platelets: Thrombos < 100.000/µl
+
+Gerinnungsstörungen
+- Antiphospholipidsyndrom: ASS 100 mg + Clexane 40 
+- Faktor-V-Leiden-Mutation: Clexane 40
+
+Geburt
+- Bishop-Score Zervixreife: < 6 Punkte: Prostaglandine, > 6 Punkte: Oxytocin
+	Portiolänge 	0 sakral	1 mediosakral	2 zentral
+	Konsistenz 	0 derb		1 mittel	2 weich
+	Länge in cm	0 2 cm		1 1 cm		2 0,5 cm 	3 0 cm
+	MM-Weite in cm	0 zu 		1 1 cm 		2 2 cm 		3 3 cm
+	Höhenstand 	0 2 cm über I	1 1 cm über I 	2 1 cm unter I 	
+- Höhenstand nach Hodge und de Lee: ab Beckenmitte-boden vag-operative E möglich
+	Beckeneingang	Leistelle über ISP	Durchtrittsplanum ISP - 4	Symphyse komplett tastbar
+	Beckenmitte	ISP - ISP + 3		ISP -4 - -1			Symphyse inkomplett, Spinae tastbar
+	Beckenboden	ISP + 4			ISP				Spinae nicht mehr tastbar
+	Beckenausgang	unterhalb 		unterhalb
+- CTG Figo-Score
+	- normal 	Baseline 110 - 160 bpm		Oszillation 5 - 25 bpm 		Dezelerationen keine 
+	- suspekt	ein normales Kriterium fehlt, kein pathologisches Kriterium, variable Dezelerationen
+	- pathologisch	Baseline < 100 o. > 180	bpm	< 5 ü. 50 min o. > 25 ü. 30 min	DIP > 3 min, rep. IIer DIPs
+	-> suspektes CTG: Kontrollen, ggf. MBU in EP
+	-> pathologisches CTG: LSL, Tokolyse, MBU, VOE, Sectio
+	DIP I: barorezeptorvemrittelter vagaler Reflex, i.d.R. keine Hypoxie
+	variable DIP: V-förmig, wehenunabhängig, kompensatorische Akzeleration, H.a. Nabelschnurumschlingung
+	DIP II: chemorezeptorvermittelter Reflex, H.a. Hypoxie des Feten
+	prolongierte Dezeleration > 3 min
+	- T konservativ: OA-Info, CTG prüfen, Weckversuch durch VU, Lagewechsel, Volumen, Oxy-Pause, Sono, Tokolyse
+	- T invasiv: MBU, VOE, Sectio
+- T Intrauterine Reanimation: Oxytocin-Stopp, O2, Lageänderung, Tokolyse / Fenoterol
+- MBU = Mikroblutuntersuchung
+	- pH sinkt um 0,1 pro 10 min bei schlechtem CTG
+	- in EP Sectio bei pH < 7,25, in AP E bei pH < 7,20
+	- pH > 7,3 = normal
+	- pH 7,25 - 7,29 = MBU wiederholen nach 30 min
+	- pH 7,21 - 7,24 = Präazidose, Wh 10 - 30 min, möglichst E nach 30 min
+	- pH < 7,20 = Azidose, intrauterine Reanimation, schnellstmöglich E oder Notsectio
+- Aktive Nachgeburtsperiode: 3-5 IE Oxytocin i.v. oder 100 µg Papal i.v.
+- Nabelschnur-pH
+	- pH > 7,3 = normal
+	- pH 7,20 - 7,29 = leichte Azidose
+	- pH 7,10 - 7,19 = mittelgradige Azidose
+	- pH 7,0 - 7,09 = fortgeschrittene Azidose
+	- pH < 7,0 schwere Azidose -> H.a. fetale Asphyxie, fetalen Stress
+
+Protrahierte Geburt / Geburtsstillstand
+- Primipara: gesamt 24 h, EP 15 h, AP 2 h 
+- Pluripara: gesamt 18 h, EP 10 h, AP 1 h
+- Geburtsstillstand > 2 h kein Fortschritt in EP -> meist Sectio, > 1 h in AP -> Oxy oder VOE
+
+Schulterdystokie
+- hoher Schultergeradstand vs. tiefer Schulterquerstand 
+- HELPER
+	Hilfe holen, Oxytocin-Stopp, Tokolyse, Uhrzeit notieren
+	Episiotomie schneiden
+	Legs: McRoberts-Manöver, Gaskin-Manöver 
+	Pressure: suprasymphysärer Druck
+	Enter hands: Rubin-, Wood-Manöver zur Schulterlösung
+	Rescue: Armlösung, Symphysiotomie, Sectio
+
+Blutungen in der Nachgeburtsperiode: 4 T: tonus, tissue, trauma, thrombin
+
+Uterusatonie
+- T konservativ: Blase leeren, Fundusmassage, Crede-Handgriff, Hamilton (+ Faust i.v.)
+- T medikamentös: Volumen, EK, Plasma, Oxytocin, Prostaglandine (Nalador / Sulproston, Misoprostol, Methergin)
+- T invasiv: Bakri-Ballon, Naht, HE
+
+Plazentaretention > 30 min
+- T konservativ: Blase leeren, Oxytocin, Crede-Handgriff, Cord traction
+- T invasiv: manuelle Lösung + Nachkürettage in ITS
+
+Plazentainvasion
+- Placenta accreta, increta, percreta
+- T: Belassen + Antibiose, Embolisation, HE, MTX-Therapie
+
+Geburtsverletzungen
+- Dammriss I (Subkutis), II (Dammmuskulatur), III (M. sphincter ani externus), IV (Rektumschleimhaut)
+
+Nabelschnurvorfall
+- T: Liegendtransport, Hand reponiert NS, Notsectio
+
+V.a. Uterusruptur
+- T: Tokolyse + Notsectio
+
+Vasa praevia / Insertio velamentosa
+- T: Sectio oder forcierte vaginale E bei unaufhaltbarer Geburt
+
+Placenta praevia
+- tiefsitzend (> 2 cm vom MM), marginalis, partialis, totalis 
+- keine vaginale Tastuntersuchung!
+- T: Sectio ab 36+0 erwägen
+
+Vorzeitige Plazentalösung
+- Grad I (klinisch stumm, Couvelair-Syndrom), II (marginal), III (starke Blutung, IUFT)
+- stationäre Überwachung, Kontrollen, Sectio
+
+Drohende Frühgeburt < 37+0
+- Amnisure / Partosure: PAMG1 (plazentares Alpha-Mikroglobulin-1 = Biomarker VBS, Frühgeburt)
+- Fibronektin (negativ, dann 99% keine E in 14 d)
+- Insulin-like-growth-factor-binding-protein-1 (VBS-Test)
+- T Lungenreife 23+0 - 33+6: 12 mg Betamethason i.m. + Wh nach 24 h
+- T Tokolyse über 48 h: Atosiban, Fenoterol, Nifedipin, Mg 
+- T bei VBS: Einleitung + Antibiose nach 12-24 h, bei GBS+ sofort Antibiose Ampicillin + Azithromycin
+- T bei Zervixinsuffizienz (< 2,5 cm vor 34+0): Progesteron vaginal, Pessare, Cerclage, MM-Verschluss
+- Thromboseprophylaxe!
+- Magnesium 4-6 g i.v. über 30 min + 1-2 g über 12 h zur fetalen Neuroprotektion
+- ab 32+0 vaginale E möglich aus Schädellage
+
+Geburtseinleitung
+- ab 41+0 anbieten
+- ab 41+3 empfehlen
+- ab 42+0 indizieren
+- Kontrollen: SDP + Plazenta + Doppler + CTG
+- T: Angusta, Misoprostol
+- T mechanisch: Eipollösung, Ballon, hygroskopische Stäbchen, Amniotomie
+
+Abort / IUFT
+- Frühabort bis 14. SSW - Spätabort bis 24. SSW - IUFT ab 24. SSW - Totgeburt > 500 g oder ab 24. SSW
+- Abortus imminens: T: Magnesium, Progesteron intravaginal
+- Abortus febrilis: T: Volumen, Antibiose, NMH, Kürettage
+- Abortus habitualis: ab 3 Aborte vor der 20. SSW
+- Windei: Trophoblast vorhanden, Embryoblast fehlend, leere Fruchthöhle
+- Blasenmole: blasige Trophoblastendegeneration: T: Saugkürette, HCG-Kontrollen, MTX
+- T < 6. SSW: Zuwarten, Sonokontrollen, HCG-Kontrollen
+- T < 10. SSW: Mifepriston + Misoprostol nach 24 h
+- T > 10. SSW: Misoprostol-Priming + Aspirationskürette + Oxytocin
+- T > 14. SSW: Mifepriston + Misoprostol nach 24 h + ggf. Sulproston +/- Nachkürettage
+
+Extrauteringravidität
+- T bis HCG < 1000 IU/l: Überwachung, HCG-Kontrollen, Sono-Kontrollen
+- T bis HCG < 5000 IU/l: Überwachung, Kontrollen, MTX i.v. oder i.m. 
+- T definitv: LSK + MTX postoperativ
+
+
+
+Infektionen in der Schwangerschaft
+
+HWI / Pyelonephritis 
+- Cefuroxim, Pivmellam
+
+Mastitis puerperalis (Staph aureus, beta-hämolysierende Streptokokken)
+- Kälte / Wärme, AmpSulb, AmoxiClav, Clindamycin
+
+Endomyometritis
+- Ibu + NMH + Oxy 3-5 IE/2x pro d + Cefuroxim o. AmoxiClav + Metronidazol
+
+Puerperalsepsis (Streptokokken A)
+- PipTaz o Meropenem + NMH
+
+GBS / Gruppe-B-Streptokokken
+- Ampicillin, Penicillin G 
+
+Triple I 
+- Azithromycin + Ampicillin -> Amoxicillin
+
+Chlamydien
+- Azithromycin
+
+Toxoplasmose
+- Spriamycin
+
+Listerien 
+- Ampicillin + Gentamicin
+
+
+
+Infektionen in der Gynäkologie
+
+HWI / Pyelonephritis
+- Fosfomycin, Nitrofurantoin, Ciprofloxacin, Cephalosporine, AmoxiClav
+
+Vulvovaginalcandidose
+- Clotrimazol 500 mg 1x vaginal + Creme
+
+Aminvaginose (Gardnerella vaginalis)
+- AmSEL-Kriterien: Amingeruch, Schlüsselzellen, erhöhter pH > 4,5, liquider Fluor
+- Metronidazol p.o. + Laktobazillen
+
+Herpes genitalis
+- Aciclovir oral 10 d oder lokal (in SS)
+
+Condylomata accuminata (HPV 6, 11)
+- Imiquimod 5% Creme, Laserablation
+
+Bartholinitis
+- Amoxicillin + Metronidazol
+- Marsupialisation
+
+Adnexitis / pelvic inflammatory disease (meist Gonokokken, Chlamydien)
+- Ceftriaxon i.v. + Doxycyclin p.o. + Metronidazol i.v. 
+
+Chlamydien
+- Doxycyclin 
+
+Trichomonadenvaginose
+- Metronidazol p.o.
+
+Gonorrhoe / Tripper
+- Ceftriaxon + Azithromycin
+
+Lues / Syphilis
+- Penicillin G i.m.
+
+Mastitis non-puerperalis (Staph aureus, beta-hämolysierende Streptokokken)
+- Flucloxacillin, Cephalosporin + Prolaktinhemmer
+
+
+
+Gynäkologie 
+
+Belastungsinkontinenz 
+- Grad I (Husten, Sport), II (Laufen, Treppensteigen), III (Sitzen, Lachen)
+- T konservativ: Beckenbodengymnastik, Pessare, lokale Östrogene, Biofeedback, Duloxetin (Yentreve)
+- T operativ: TVT-Band, Kolposuspension nach Burch, Bulkamid-Injektion in Urethrawand
+
+Dranginkontinenz
+- OAB dry vs. wet
+- T konservativ: Anticholinergika (Vesicur, Trospium, Tolterodin, Darifenacin), Pessare, ...
+- T operaitv: transurethrale Botox-Injektion in Detrusor
+
+Descensus genitalis
+- Grad I (- 1 cm vor Introitus), II (am Introitus), III (+ 2 cm über Introitus), IV (Totalprolaps)
+- T konservativ: Beckenbodengymnastik, lokale Östrogene, Pessare
+- T operativ: Kolorrhaphia anterior / posterior, Vaginaefixation sacrospinalis (Amreich-Richter), Kolposacropexie, Netzimplantate
+
+Endometriose
+- Klassifikation rASRM, ENZIAN
+- T Goldstandard: chirurgische Entfernung aller Herde
+- T medikamentös: NSAR, Gestagene (Dienogest 2 mg) in Dauertherapie, KOK, GnRH-Analoga (< 6 Mon)
+
+Polyzystisches Ovarialsyndrom
+- Rotterdam-Kriterien: Hyperandrogenismus, Oligo-/Anovulation, Ovar > 10 ml / > 12 Follikel
+- T: Metformin, KOK, bei KiWu Follikelstimulation mittels Clomifen oder Letrozol
+
+Myome
+- T präoperativ: GnRH-Analoga / -Antagonisten, Ulipristalacetat, Gestagene perimenopausal
+
+Mamma-Ca 
+- Staging: Sono oder Mgr, Stanze / Vakuumbiopsie, LK-Biopsie, CT Thx/Abd, Abdomen-Sono, Skelettszinti, ggf. PET-CT, ggf. cMRT
+- OP + Radiatio + (neo)adjuvante Chemo (Epirubicin + Cyclophosphamid + Paclitaxel/Docetaxel + ggf. Carboplatin, Palbociclib, Pembrolizumab, Olaparib, Trastuzumab, Tamoxifen, Anastrozol)
+
+Ovarial-Ca
+- Staging: Ca125, Sono Abdomen, CT/MRT/PET Thx/Abd/Becken, Genetik (BRCA, HNPCC), operatives Staging
+- OP + adjuvante Chemo (Carboplatin + Paclitaxel + ggf. Bevacizumab + Niraparib)
+
+Endometrium-Ca
+- Staging: HSK-Abrasio, TVUS, Rö Thx, MRT/CT Becken, ggf. Skelettszinti
+- OP + Radiatio + Chemotherapie (Carboplatin + Paclitaxel)
+
+Zervix-Ca
+- Staging: Kolposkopie + Portio-PE, SCC/CEA/Ca125, TVUS, Nierensono, MRT Becken, CT Thx/Abd, ggf. Zysto-, Rektoskopie, operatives LK-Staging
+- OP oder Radiochemotherapie (Cisplatin)
+
+Vagina-/Vulva-Ca
+- Staging: Vulvoskopie + Stanze, TVUS, Kolposkopie, Palp + Sono inguinofem. LK, Sono Abdomen, Resktoskopie, Zystoskopie, CT Thx/Abd/Becken
+- OP oder Radiochemotherapie (Cisplatin oder Mitomycin + 5-FU)
