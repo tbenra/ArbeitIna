@@ -1,0 +1,60 @@
+
+Antibiotikatherapie:
+
+Antibiotika	Standard dose	High dose	weiteres
+
+Amoxiclav (Augmentan)	
+- ((0,5g Amoxicillin + 0,125g Clavulansäure) x 3 p.o.)	
+- (0,875g Amoxicillin + 0,125 Clavulansäure) x3	
+
+Unacid	
+- (2g Ampicillin + 1g Sulbactam) x 3 i.v.
+- (2g Ampicillin + 1g Sulbactam) x 4 i.v.	
+- Puerper. Mammaabszess: Standard bis 48h fieberfrei ->  Amoxiclav highdose 10d
+
+Azithromycin	
+- 0,5g x 1 p.o. / 0,5g x 1 i.v.		
+- Anderes Therapieschema bei Chlamydien und Gonokokken
+
+Cefaclor	
+- 0,25 – 1g x 3 p.o. je nach Species und Infektionstyp, bei Staphylokokken minimum 0,5g
+		
+Cefazolin	
+- 2g x 3 i.v.		
+- Allergie: Clindamycin gg GBS
+
+Ciprofloxacin (Ciprobay)	
+- 0,5g x 2 p.o. / 0,4g x 2 i.v.	
+- 0,75g x 2 p.o. / 0,4g x 3 i.v.
+- Pseudomonas -> high dose
+- Staph ->  high dose+ Kombi
+
+Doxycyclin	
+- 100mg x 1 p.o.	
+- 200mg x 1 p.o.	
+
+Fosfomycin	
+- 3g singledose p.o.		
+
+Flucloxacillin (Staphylex)	
+- 1g x 3 p.o. / 2g x 4 i.v.	
+- 1g x 4 p.o. / 2g x 6 i.v.	
+- Puerperale Mastitis
+
+Levofloxacin (Tavanic)	
+- 0,5g x 1 p.o. / 0,5g x 1 i.v.	
+- 0,5g x 2 p.o. / 0,5g x 2 i.v.
+- Strep. A, B, C, G, pneum. -> high dose
+
+Metronidazol (Clont)	
+- 0,4g x 3 p.o. / 0,4g x 3 i.v.	
+- 0,5g x 3 p.o. / 0,5g x 3 i.v.	
+
+Co-trimoxazol	
+- (0,16g Trimethoprim + 0,8g Sulfa) x2 p.o. / x2 i.v.	
+- (0,24g Trimethoprim + 1,2g Sulfa) x2 p.o. / x2 i.v.	
+
+Clarithromycin	
+- (250mg x 2 i.v. / p.o.)	
+- 500mg x 2 i.v. / p.o.	
+

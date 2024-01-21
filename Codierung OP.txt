@@ -1,0 +1,13 @@
+Codierung Sectio/ OP Codes Sectio/ Codierung Geburtshilfe/ OP Codes Geburtshilfe:
+
+Pathologisches CTG -- O68.0 (nicht O28.8, das nur bei Screeninguntersuchungen)
+
+Grünes Fruchtwasser -- O68.1 (nicht P209, das ist pädiatrische Diagnose)
+
+   - Kombination: Pathologisches CTG + Grünes Fruchtwasser -- O68.2
+
+BEL: bei Spontanpartus oder primärer Sectio -- O32.1 
+
+   - ggf. Zusatz BEL: geplanter Spontanpartus, jedoch sekundäre Sectio bei Geburtshindernis -- O64.1
+
+Re-Sectio -- O34.2
