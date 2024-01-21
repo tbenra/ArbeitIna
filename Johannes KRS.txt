@@ -1,0 +1,405 @@
+KREISSSAAL
+
+Zettel:
+Name – GxPx – SSW bzw. ET+x – SG		ggf. Rhesus, Blutungsneigung, GBS
+Stand der Geburt: vBS 7:00; PDA 8:00; MMv 9:30  / MM 6cm Uhrzeit
+Ballon/Ang/Gel
+Riskofaktoren/ Aufnahmegrund: Präeklampsie, Narbensz, Oligohydramn., 2xSec, iGDM
+L: Uhrzeit, wann Kontrolle, Auffälligkeiten
+AB: GBS+ -> ab 3-4cm;	GBS- -> 12h nach BS
+
+-	BS ->bestätigt? ->stationär (pvk, präOP+CRP)
+-	Einleitungsversuch nach vBS nach 24h ohne Wehen mit Angusta (direkt Aufklären v.a. Überstimulation: Wehensturm -> Gegenmittel und Notsectio), alle 12h BB+CRP, Temp.kontrollen, Antibiose GBS- nach 12h, GBS+ sofort
+-	Bei vBS tgl. Labor, Temperatur, Druckschmerz Bauch, CTG Baseline-Anstieg überprüfen
+-	Bei vBS am 2. Tag selbst untersuchen, ab 3. Tag OA informieren
+-	P3 / Oxy während Geburt / lange Geburt / Zeugen Jehovas -> 3IE Oxy zur Plazenta/ aktive Plazenta Indikation
+-	Sec am gleichen Tag: Labor checken (Hb<10 -> 2EK)
+-	Plazenta kommt nicht innerhalb von 20-30 Minuten -> Katheter + 3IEOxy -> 3-5  min Warten  OA anrufen vor nächster Oxygabe
+-	Ballon (ⵁ BS, 12h, davor Tasten), Angusta (ⵁ Z.n. Sectio; 1d 3x, 2d 4x), Gel (2-3d 3mg) -> immer Aufklärung, pVK
+-	Angusta halbe Dosis 25ug bei V.a. Plazentainsuffizienz oder fast reifem Befund mit unkoordinierten WTK
+-	Weitere wissenschaftliche erwiesene Einleitungsversuche (Dillapan-Stäbchen 24h, Eipollösung, Rizinusöl/Wehencoctail (durch Abführende Maßnahmen bei reifen MM), Gel standard: Milprostin : Gewölbe, Prepidil: intrazervikal (ärztlich)
+-	In Übergangszeit von EP zu AP (Saum), gehäuft Panikattacken der Frauen mit PDA-Wunsch, gute Betreuung ist besser als PDA (erhöhte vag. OP Rate)
+-	2h MMv ohne dass es losgeht (bzw. 3h mit PDA)
+-	PVK Begründungen: Krampfgefahr, Antibiose, Z.n. Sectio, SIH, Einleitung, Frühchen
+
+
+
+BGA / Blutgasanalyse / MBU / Mikroblutuntersuchung:
+MBU: <7,20 -> Notsectio oder VE //  < 7,25 -> halbe Stunde Wiederholen
+BGA (bei Erwachsenen! nicht unter Geburt!): pH<7,35; Lactat > 2 -> Sauerstoff, Jono, Blutzucker checken
+Einleitung Indikation/INDIKATION ELV/ Einleitungsindikation: 
+Nikotinkonsum + Alter + BMI + Nulliparität immer miteinbeziehen
+TÜ, vBS, SIH 37+0; Präeklampsie 37+0; chronische Hypertonie/präexistenter Hypertonus 38+0; iGDM 40+0; iGDM+Polyhydramnion 39+0 spätestens 40+0; Schwangerschaftscholestase 37+0; Makrosomie/LGA >95% 39+0 (ab 4000g Aufklärung Schultersystokie; ab 4500g Sectioindikation); Wunsch 39+0; ab 40  Jahre 39+0 spätestens 40+0; Gemini didi 38+0; Gemini modi 37+0; Gemini momo Sectio; BMI>30 39+0 anbieten und Aufklärung über erhöhtes IUFT-Risiko ab 40+0; SGA 38+0 spätestens bis 40+0; IUGR individuell; CTG-Auffälligkeiten individuell; akute Gestose medikamentöse EL
+
+„Misoprostol in einer Dosierung von 50 μg oral entspricht dem Sicherheitsprofil einer vaginalen Applikation von 25 μg.“ (S2k Geburtseinleitung)
+
+Übelkeit in Schwangerschaft/ Schwangerschaftsübelkeit: 
+Vomex 50mg p.o. 4xtgl (max. 400mg/d) oder MCP 10mg p.o. 3x tgl. (max. 30mg/d; alle 6 h; max. 5d)
+
+Dokumentation Sono/ Sonodokumentation (Kurve + Extrablatt):
+FW: SDP 3-8cm oder AFI 4-10cm
+Plazenta
+SG
+Fragestellung + Beurteilung
+
+Ablauf Kreisssaal Ambulanz:
+Anamnese: KBW, WTK, FW/Blut-Abgang ggf. Gestosesympt. PSR auslösbar?
+TAUS: SG  symmetrisch? (Kind), SDP (FW), Plaz. VW (Vorderwand hoch/tief?) unauffällig, II. SL (Lage)
+Procedere: Gestoselab? Proteinurie? WV
+
+Ablauf Wehensturm/ Notfall Wehensturm:
+ 1 Wehe/ 2 min: v.a. nach Angusta nach ca. 20 min -> Vierfüßlerstand auf Unterarme +1/2 Akuttokolyse ggf. Notsectio
+
+Medikamente unter Geburt:
+Gelwehen -> Talvosilen-Zäpfchen in Latenzphase
+Geschwollene Geburtsverletzungen -> Diclac-Zäpfchen
+Schmerzcocktail: Meptid + Buscopan + Vomex (Opioid + Parasympatholytikum + H1-Blocker)
+-	CAVE: Long-QT, Glaukom, Buscopan macht Wehen und Krampfgefahr // NW: Baselineabfall, Tachykardie, RR-, Ü+E, 
+
+
+Triple I / Amnioninfektionssyndrom / AIS / Chorioamnionitis / Maternales Fieber:
+Maternales Fieber: 39,0°C ODER 30min >38,0°C 
+V.a. Triple I:   	Mat.Fieber + mind. 10min >160fetHF ODER Leukos > 15.000 ODER purulenter Fluor
+Triple I:  	V.a. Triple I + Plazenta-Histologie (ODER Amniozentese) bei Sectio immer intrauterine MiBi
+CAVE: Oszillation bei AIS mit Baselineanstieg nicht auswertbar, dementsprechend frühzeitig MBU; nach AIS 3 Tage AB bzw. nach 2 Tagen fieberfrei Oralisieren
+
+
+PPROM/ P-PROM/ frühzeitiger vorzeitiger Blasensprung (bis 33+6 SSW): 
+Diagnostik:
+1)	Anamnese: Z.n. Frühgeburt, subjektiv WTK (>4WTK/30min), Rückenschmerzen, Blutung
+2)	CTG: objektiv WTK?
+3)	Speculum: MM, FW, Blutung, Nativ, MiBi + pH + Amnisure
+4)	TVUS wenn von OA wünscht
+5)	TAUS mit FW
+6)	PVK + Notfallabor + CRP + Fremdlabor (CMV <32+0; HBs <34+0)
+7)	U-Status (HWI)
+Therapie:
+1)	Antibiotikatherapie: 1x 1g p.o.-Azithromycin; 2d i.v.-Ampicillin (2g) alle 6-8h gefolgt von 5d Amoxicillin (3x 500mg / 2x875mg) (CAVE: Ø Amoxiclav wegen ↑NEC-Rate)
+2)	RDS-Prophylaxe/ Lungenreife unter Tokolyse: 2x 12mg i.m.-Bethametason alle 24h (alternativ 4x 6mg i.m.-Dexamethason alle 12h) (wirkt ab ca. 24h bis zu 7d / CAVE: Lungenödem bei Volumengabe, Tokolyse) (Nebenwirkungen: Tachykardie, Blutdruckanstieg, Unruhe, Kalium sinkt, verringerte Glucosetoleranz, Ödeme bis Lungenödem (v.a. bei Kombination mit Tokolyse!)
+3)	Ggf. Neuroprotektion
+4)	Sectioaufklärung? Prämed?
+5)	Weitere Angaben: 2x tgl BB+CRP, Mg verla 2-2-2; 3x tgl. CTG; 12mg i.m.-Bethametason am XX um XX in RS mit Kreisssaal; Kolostrum sammeln; Präpartalvisite anmelden
+
+
+PPROM/ P-PROM/ frühzeitiger vorzeitiger Blasensprung (34+0 bis 36+6 SSW):                   
+wie bei PPROM bis 33+6 SSW, jedoch Verzicht auf antenatale Steroidgabe, Tokolyse und Neuroprotektion mit Magnesium, Prolongation
+ 
+
+Vorzeitige Wehentätigkeit (vWTK)
+Diagnostik:
+1)	Anamnese: Z.n. Frühgeburt, subjektiv WTK (>4WTK/30min), Rückenziehen, Blutung
+2)	CTG: objektiv WTK
+	->	Keine WTK: HWI? Vorzeitige Plazentalösung?
+3)	Speculum: MM, FW, Blutung, Nativ, MiBi + pH + Amnisure + Partosure (24h nach letzter Manipulation)
+4)	TVUS: ggf. mit OA
+5)	TAUS: mit FW + z.A. vorzeitige Plazentalösung
+6)	PVK + Notfallabor + CRP + Fremdlabor (CMV <32+0; HBs <34+0)
+7)	U-Status (HWI)
+Therapie:
+1)	> 34+0 laufen lassen
+2)	24+0 - 34+0 
+a.	Cx >2,5cm: Observatio, 1-2 Tage warten
+b.	Cx <2,5 + Partosure positiv -> RDS (ggf. Partosure am Folgetag bei Z.n. Manipulation)
+c.	Cx <1,5 -> RDS
+3)	RDS-Prophylaxe/ Lungenreife unter Tokolyse: 2x 12mg i.m.-Bethametason alle 24h (alternativ 4x 6mg i.m.-Dexamethason alle 12h) (wirkt ab ca. 24h bis zu 7d / CAVE: Lungenödem bei Volumengabe, Tokolyse) (Nebenwirkungen: Tachykardie, Blutdruckanstieg, Unruhe, Kalium sinkt, verringerte Glucosetoleranz, Ödeme bis Lungenödem (v.a. bei Kombination mit Tokolyse!)
+4)	Ggf. Neuroprotektion 
+5)	Sectioaufklärung? Prämed?
+6)	Angaben: Mg verla 2-2-2; 3x tgl. CTG; 12mg i.m.-Bethametason am XX um XX in RS mit Kreisssaal; Kolostrum sammeln; Präpartalvisite
+
+
+Cervixinsuffizienz:
+Diagnostik:
+1)	Anamnese: Z.n. Frühgeburt, subjektiv WTK (>4WTK/30min), Rückenziehen, Blutung
+2)	CTG: objektiv WTK
+3)	Speculum: MM, FW, Blutung, Nativ, MiBi + pH + Amnisure + Partosure (24h nach letzter Manipulation)
+4)	TVUS: ggf. mit OA
+5)	TAUS: mit FW + z.A. vorzeitige Plazentalösung
+6)	PVK + Notfallabor + CRP + Fremdlabor (CMV <32+0; HBs <34+0)
+7)	U-Status (HWI)
+Therapie:
+1)	> 34+0 laufen lassen
+2)	24+0 - 34+0 
+a.	Cx >2,5cm: Observatio, 1-2 Tage warten
+b.	Cx <2,5 + Partosure positiv  RDS (ggf. Partosure am Folgetag bei Z.n. Manipulation)
+c.	Cx <1,5  RDS
+3)	RDS-Prophylaxe/ Lungenreife unter Tokolyse: 2x 12mg i.m.-Bethametason alle 24h (alternativ 4x 6mg i.m.-Dexamethason alle 12h) (wirkt ab ca. 24h bis zu 7d / CAVE: Lungenödem bei Volumengabe, Tokolyse) (Nebenwirkungen: Tachykardie, Blutdruckanstieg, Unruhe, Kalium sinkt, verringerte Glucosetoleranz, Ödeme bis Lungenödem (v.a. bei Kombination mit Tokolyse!)
+4)	Ggf. Neuroprotektion
+5)	Sectioaufklärung? Prämed?
+6)	Angaben: Mg verla 2-2-2; 3x tgl. CTG; 12mg i.m.-Bethametason am XX um XX in RS mit Kreisssaal; Kolostrum sammeln; Präpartalvisite
+
+
+Neuroprotektion bei Frühgeburt/ Neuroprotektion Magnesium (bis 32+0 SSW):
+i.v.-MgSO4: initial 4-6g über 30 Minuten, dann 1-2g über 12h, dann 12h Pause, Ziel: Verdoppeln des Serumspiegels der Mutter, Wiedereinstieg bei erneuter drohender Frühgeburt
+
+
+TOKOLYSE (max. 48h) OÄ Indikation:
+-	Adalat i.v. (Nifedipin, offlabel – Aufklärung! RR und CTG während Aufsättigung) 10mg 4x alle 20min dann nach 20 min Adalat 20mg retard alle 4 h; Ausschleichen alle 6 h – 12h – 24h
+-	Atosiban/Tractocile i.v. bis 33+0 SSW; Wahl bei kardialer Vorerkrankung oder iDM (siehe Consens) (Oxyocinantagonist; KI: Blasensprung nach 30+0; NW: Übelkeit, Kopfschmerzen)
+-	Bolus Partusisten (Fenoterol) i.v. : Gewichtsadaptiert mit Perfusor, davor EKG schreiben QT-Streckenverlängerung Toisade-de-Poins (Therapie: Defibrillation + 2g Mg i.v. + ggf. Kalium-Mangel ausgleichen) (schreibt ITS, am WE Röntgen); CAVE: +Glucocorticoide -> Lungenödem 
+
+
+Dauertokolyse:
+Zubereitung: 2 Amp Partusisten (30ml) + NaCl auf 250ml verdünnen -> 1ml enthält 4ug Fenoterol
+Anwendung: Start mit 15ml/h (max. 45ml/h), bei Sistieren der WTK schrittweise Reduktion bis 10 ml/h und vorsichtige Mobilisation der Grav.
+
+
+Bolustokolyse:
+Zubereitung: 3 Amp Partusisten (30ml) (+ 1 Amp A 0,2ml Heparin-Natrium 5000) + NaCl auf 500ml verdünnen -> 1ml enthält 3ug Fenoterol
+Anwendung: gewichtsadaptierte Bolusgröße (<60kg -> Bolusgröße 3ug, 60-80 kg-> Bolusgröße 4ug, 80-100 kg -> Bolusgröße 5ug). 						
+Mit einem Boluszeitintervall von 3 Min. beginnen. Wenn die Wehen nachlassen jeweils Zeitintervall verdoppeln. Ziel ist eine Senkung auf 12 min-Intervalle nach 12/24 Std.(?) und 24 min- Intervalle nach 24/48 Std.(?) und ein Absetzen (bzw. notfalls Umsetzen auf orale Tokolyse) nach 24/48h (?)       (CAVE: bei nicht nachlassender WTK erst Boluserhöhung dann Intervallverkürzung)
+Nebenwirkungen: Tachykardie, Blutdruckanstieg, Unruhe, Kalium sinkt, verringerte Glucosetoleranz, Ödeme bis Lungenödem (v.a. bei Kombination mit RDS!)
+
+Akuttokolyse:
+Zubereitung: 1 Amp „Partusisten intrapartal“ in 4ml NaCl -> 1ml enthält 5ug Partusiten
+
+
+Vaginale Blutung in Spätschwangerschaft:
+Anamnese, Abdomen weich, TAUS (Plazentalsg, Plazenta praevia), Speculum für Blutungsquelle, TVUS (Plazenta praevia), pvk + Blut, OA bescheid geben, stationäre Observatio, min. 24h Blutungsfrei (bei Plazenta praevia -> Sectio)
+
+
+Plazentationsstörung, Plazenta accreta, Plazenta percreta, Plazenta increta, Sectionarbe (V.a. Z.n. Sectio)
+TAUS: 1) loss of clear zone: fehlende hypoechogene Grenzschicht zwischen Myometium und Plazentabett 2) mottenfraßartige Lakunen: zahlreiche irreguläre Lakunen mit turbulenten Fluss, typischerweiße senkrecht zur Grenzschicht 3) Unterbrechung der Blasenwand: Verlust des hyperechogenen Bandes der Blasenwand 5) Ausdünnung des Myometriums <1mm 6) Placental bulge: Auswölben der uterinen Serosa 7) Fokal exophytisches Plazentagewebe: Plazentagewebe durchbricht uterine Serosa 
+8) Uterovesikale Hypervaskularität (Irreguläre Gefäßperfusion zwischen Myometrium und Blasenhinterwand (zahlreichegewundene Gefäße mit bidirketionalem Fluß) 9) Subplazentare Hypervaskularität: Vermehrte Darstellung irregulärer Gefäßperfusion im Plazentabett (zahlreiche gewundene Gefäße mit bidirektionalem Fluß) 10) Bridging vessels: Darstellung von Gefäßen, die von der Plazenta über Myometrium und Serosa in Harnblase oder andre Organe ziehen – oft senkrecht zum Myometrium 11) Zuführende Gefäße zu den plazentaren Lakunen : Gefäße mit hoher Blutflußgeschwindigkeit vom Myometrium in Lakunen ziehend
+
+
+Ablauf Dezeleration/ Notfall Dezeleration: 
+Dezeleration über 1-3 Minuten -> Gefahrensituation
+Fragen: MMreife? Höhenstand? Gravidität? 
+Umlagern re/LINKS, tiefer Ellenbogen; tiefe Bauchatmung; ggf. Kopf im tiefen Ellenbogen hochschieben
+->	0,5 Tokolyse, OA indiziert ggf. Notsectio
+
+
+Präeklampsie: 
+Diagnostik:
+1)	Anamnese: RR zuhause, RR MuPa, Medikation bis jetzt, Z.n. Gestose, neuer Partner, WBF, WTK, FWA, Blutung, Gestosesymptomatik (Kopfschmerzen, Augenflimmern, OB-Schmerzen, Übelkeit, Erbrechen, akute Ödeme Gesicht/Hände)
+2)	CTG mit RR!
+3)	TAUS: mit FW + Doppler
+4)	PVK + Notfallabor + Gestoselabor + ggf. Fremdlabor (sflt-Quotient) vor 37+0 
+5)	U-Status: Proteinurie -> ggf. TP/Krea nachmelden (auffällig>0,26)
+Therapie:
+1)	Je nach RR-Verlauf Presinol 250-500 (max. 2g/d)
+2)	RR > 150/100: akut Adalat 5-10mg (max 120mg/d) bzw. 6mg Urapidil in 2 Minuten aus der Hand, dann 3-24mg/h (RR sollte nicht unter 130/80 fallen wegen Plazentaperfusion)
+3)	bei Symptomen, V.a. HELLP oder hohem RR, erneute Laborkontrolle in 4-6h, sonst eher in 12h
+4)	Entbindungsinidkation ab 37+0 (ggf. ab 34+0)
+5)	Sectioaufklärung? Prämed? Präpartalvisite?
+6)	Indikation Magnesiumperfusor?
+7)	Indikation RDS-Prophylaxe? Tokolye? RS OA
+8)	Indikation Neuroprotektion?
+9)	Angaben: tgl. Gestoselabor, 3x tgl. CTG, 5x tgl. RR, (Meldung an DA bei Gestosesymptomatik, RR>150syst., RR>100diast.), Mg verla 2-2-2; ggf. Kolostrum sammeln
+10)	postpartal: Laborkontrolle, ggf. Mg-Perfusor
+
+sFlt-1/PlGF-Quotient / Präeklampsie-Screening / PE-Screening / sflt Quotient
+<38 -> geringes Risiko für PE innerhalb nächster Woche  bei Verdacht Verlaufskontrolle möglich
+38-85 -> moderates Risiko für PE innerhalb 4 Wochen  Verlaufskontrolle in 1-2 Wochen
+>85 -> =Präeklampsie; hohes Risiko für Komplikationen innerhalb 4 Wochen  Behandlung der Präeklampsie; Verlaufskontrolle nach 2-4 Tagen -> bei stabilen Werten Verlaufskontrolle in 2 Wochen
+>655 -> =Präeklampsie; hohe Warscheinlichkeit für Entbinungsindikation innerhalb 48h  Intensive Überwachung + ggf. RDS + Kolostrum sammeln
+
+
+NOTFALL HELLP: 
+Gestoselabor + Urin + Anamnese, TAUS mit Doppler, dauer-CTG + RR, PVK mit Notfalllabor & Thrombexact +  MagnesiumPerfusor + ggf. Ebrantilperfusor + OA + gelbe/rote Sectio                            //// im Anschluss: Neurokonsil mit CT/MRT
+
+
+Hypertensive Entgleisung: 
+Ebrantil-Perfusor (1,5-6ml, max. 12ml), davor 6-10mg (=3-5ml) über 2min aus der Hand
+
+
+NOTFALL Eklampsie/ NOTFALL Eklamptischer Anfall/ Notfall Krampfanfall: 
+Mg 10% 5g in 5-15 min (1g in 1-3 min, dann 1-2g/h) + Diazepam 20mg i.v./i.m. + OA + 3333 + Notsectio                                                                                      //// Antidot: CalciumGluconat (1 Amp 10% in 3min) + O2  bei <Reflexen, Atmung <12, Ausscheidung <0,5ml/kg/h                                                                                                                                                            //// Eklampsieprophylaxe: 5g in 20 Minuten dann 1-2g/h Erhaltungsdosis, BE, Monitoring mit Oxy, ((Dauerkatheter,)) klinische Überwachung, ((EKG))
+
+
+NOTFALL Postpartale Blutung/NOTFALL Atonie/ NOTFALL Blutung: 
+vor Plazenta: Credé, OA:6022, 2 große Zugänge + Notfalllabor + 2 Kreuzblut, 2 x 3IE Oxy, Ringer, DK, Eisblase, Wiegetuch für Blut, Sono; (4T: Tissue, Tonus, Thrombin, Trauma)
+nach Plazenta: 10IE Oxy, Sono, Cervixrevisionsset, frühzeitig Curette
+
+
+Ablauf Curette/Ablauf Kürette + Ablauf Manuelle Plazentalösung / Notfall Manuelle Plazentalösung /Notfall Kürette: 
+2 PVK, Blut+Kreuzblut, ggf. Oxy, Sono, Beinhalter mit Klettverschluss, Anästhesie, Cervixrevisionsset
+
+
+Plazentaretention/ aktive Plazentaperiode/ Plazenta kommt nicht innerhalb von 45 Minuten: 
+3IE Oxy, K-Urin, Eisblase, Cord traction, tiefe Hocke, OA
+
+
+Ambulante Entlassung nach Geburt/ Ambulante Geburt:
+Heb., KA, Stoffwechselscreening, U2, Hörtest
+KI: grünes FW, siehe Consens
+
+
+IUGR: (noch nicht fertig!!!)
+Anamnese: KBW, WTK, Blutung, Vorerkrankungen, Medikamente, Nikotin/Alkohol, Feindiagnostik?
+Mutterpass (vorherige SG, SSL überprüfen, Doppler, RR)
+TAUS + Doppler (mit vmax; mit DV bei early-onset) + FW (Plazentastruktur, Herz, Bauchwanddefekt, Zwerchfellhernie, SG<3%?, Perzentilenknick, early-onset vor 34+0 SSW)
+Ggf. Feindiagnostische Untersuchung nachholen (ggf. Karyotypisierung)
+Labor: sflt-1/PlGF, Serologie (CMV, Toxoplasmose, Röteln, Varizellen, ggf. Malaria, ggf. Syphilis) 
+Präpartalvisite anmelden, ggf. Sectio aufklären
+Oxford-CTG
+Management: alle 2 Wochen SG; Dopplerkontrollen (unauff. Umb. -> 2 Wochen, wenn auffällig 1 Woche oder öfter), ggf. RDS + Neuroprotektion, Entbindungsindikation prüfen
+
+
+Intrahepatische Schwangerschaftscholestase / ICP:
+Anamnese: KBW? Lebererkrankung auch familiär? Stimulationsbehandlung? Z.n. ICP? Pruritus ohne Primäreffloreszenz v.a. nachts, initial Hand- Fußinnenfläche, dann Generalisierung, Begleitsymptome: OB-Schmerzen, Übelkeit, Appetitlosigkeit, Schlafentzug, Steatorrhoe
+Labor: Gestoselabor mit Gallensäuren (nüchtern, kein Ausschluss bei Normalwert), ALAT=GPT, Bili, GGT, Prothrombinzeit 
+Procedere: ELV ab 37+0, spätestens 38+0 (Anpassungsstörung, Frühgeburtlichkeit, Mekoniumaspirationsyndrom, und IUFT-Risiko ist erhöht, ELV ab 34+0 bei Gallensäuren > 100 μmol/l), wenn von OA gewünscht ggf. Lebersono z.A. DD obstruktive Cholestase
+Systemisch: Ursodesoxycholsäure/UDCA (Ursofalk) schon bei V.a. ICP: 2x 500mg (max. 2g) (verfälscht Gallensäuren im Labor, wenig NW: Diarrhoe); ggf. Antihistaminika bei fehlender Symptombesserung
+Topisch: Dimetindenmaleat-Gel nicht großflächig (Fenistilgel, H1-Antihistaminikum)
+Angaben: 3x tgl. CTG, 3x tgl. RR, tgl. Gestoselabor mit Bilirubin gesamt+indirekt, Ursofalk 500mg 1-0-1, bei Bedarf Fenistil (nicht großflächig); ggf. Kolostrum sammeln
+Postpartal: Laborchemische Kontrolle nach spätestens 6 Wochen, hepatologische Abklärung bei fehlender Normalisierung, Kontrazeption mit Gestagenmonopräparaten, Risiko:  hohe Wiederholungsrate, hepatobiliäre Erkrankungen (chronische Hepatitis, Leberfibrose, Hepatitis C, Cholangitis, HCC, hepatobiliäres Karzinom)
+
+
+oGGT Grenzwerte / oraler Glucosetoleranztest/ BZ-Werte/ BZ-Einstellung/ Blutzuckereinstellung/ Blutzuckerwerte / Zuckertest (zwischen 24+0 und 26+6)
+50g-Glucosetest: >135mg/dl (->75g-oGGT), >200mg/dl (=DM/GDM -> HbA1c)
+75g-oGGT: >92/180/153mg/dl (nü/1h/2h = GDM), >126/x/200 (nü/2h = DM ->HbA1c)
+Selbstmessung Zielwerte: 65-95/<140/<120 mg/dl (nü/1h/2h) (nüchtern wiederholt > 110mg/dl -> zügige Insulineinstellung, weitere Indikationen in Leitlinie)
+
+
+
+Ablauf Gemini-Geburt/ Ablauf Spontanpartus Gemini /Ablauf Zwillingsgeburt
+OA, Sonogerät, Narkosegerät, Meldung Anästhesie, Meldung Pädiatrie, ggf. Meldung OP, Kurzzeittokolyse, Oxytocinperfusor, 3IE Oxy, Akuttokolyse, 10 IE Oxytocin
+Nach Geburt des 1. Geminus: Lageschall mit Herztönen, VU + ggf. Amnitomie durch OA, ggf. direkt Oxytocin-Tropf, ggf. Bauch Schienen, ggf. Wendung 
+
+
+
+Plazenta einschicken, Plazentahistologie, pathologische Untersuchung: 
+IUGR, Gemini, IUFT, (V.a. Triple I, extreme Frühgeburt, Fehlbildungen, Drogenabusus, V.a. vorzeitige Plazentalösung, velamentöser Nabelschnuransatz, Plazentatumor, Nabelschnuranomalien)
+
+
+Ablauf eilige Sectio/ Ablauf gelbe Sectio: 
+1)	Aufklärung + Vaterzettel unterschreiben
+2)	OP-Anmeldung am PC: OP -> Anmeldung -> Sectio, heute, Team, OP-Kalender in NM reinziehen
+3)	OP anrufen 2550
+4)	Anästhesie anrufen 5353
+5)	KA anrufen immer bei path. CTG 6557
+6)	Wochenende: Pforte anrufen, sobald Anästhesie da war losfahren bzw. kurz nochmal im OP anrufen)
+
+
+Ablauf Frühgeburt (<35+0): 
+Pädiater immer in Standby, 1-2 Minuten auspulsieren, dann immer direkt zu Pädiatern, im Winter auf Wärme achten
+
+
+
+Aufklärung Sectio:
+Aufklärung, Aufklärung Heparin, Vaterzettel, Labor checken, Aufklärung Narkose mitgeben, 18:00 anrufen in Kreissaal zwecks Termin
+Ablauf: Morgens ankommen mit Begleitperson, nüchtern
+Nadel gelegt + prophylaktische Antibiose + Flüssigkeit
+Im OP -> Spinalanästhesie, sobald Beine nicht mehr Spüren DK+ OP-Abdeckung
+Schnitt, Stumpfe Eröffnung – Kind relativ schnell da, sobald abgenabelt -> nimmt Hebamme ggf. Kinderärzte schauen es sich an, wenn alles ok bekommt Frau auf die Brust gelegt
+In der Zeit Plazenta und Zumachen, selten eine Drainage
+Wieder zurück in Kreissaal
+Risiken: Haut, Nerven, Gewebe, Lagerungsschaden (Dekubitus, Neuropathie, Kompartmentsyndrom)
+Infektionen und Wundheilungsstörungen, Keloidbildung, ästhetische Unzufriedenheit, Allergien Unverträglichkeiten, Thrombose, LAE, Cystitis
+Langer stationärer Aufenthalt u. Rekonvaleszenz, Schmerzen, Stillprobleme, nächste SS > 1Jahr
+Verletzung umliegender Organe: Darm, Harnblase, Harnleiter, ->  Hysterektomie, Anus pr., Darmlähmung, … 
+Erweiterung von Eingriff u. Zugangswege, Saugglocke ggf. Chirurgen
+Blutung, ggf. Transfusion (Infektion) , HE
+Re-OP ggf. mit HE und o.g. …
+Neue Adhäsionen, Adhäsiolyse
+Folge-SS: Sterilität, Narbenendometriose, Nidations- und Plazentationsstörungen, Uterusruptur + Blutung, prim/sek ReSectio
+Kind: Anpassungsstörungen, Verletzungen von Haut (2%), Nerven, Gefäßen, Knochen, Allergien, Asthma, DM
+
+
+
+Aufklärung Tubensterilisation - Aufklärung TS: 
+2 Aufklärungszettel von Vater und Mutter unterschrieben + neues Dokument über Kosten in Mails (€ durchstreichen und schreiben: wie im Kostenvoranschlag)
+TS ohne Sectio werden von Chef gemacht, es gibt eine lange offizielle Warteliste, im Moment werden sie jedoch nicht gemacht (Stand 05/23)
+Risiken: Familienplanung entgültig abgeschlossen, Aufklärung über alternative Verhütungsmethoden für Frau und Mann, z.B. Vasektomie als komplikationsärmere operative Alternative, keine Reversibilität, jedoch 1-2% Versagerquote, Bedeutung des erhöhten EUG-Risikos, Hormonmangel durch Adnexeingriff bds.
+
+
+Aufklärung Heparin:
+Blutungsrisiko, Mobilisation nur mit Pflege, Allergie, Unverträglichkeit, HIT, 
+Stich: Hämatom, Schmerzen, Infektion, Haut, Nervenschäden
+
+
+
+Aufklärung äußere Wendung/ Aufklärung Wendung:
+Bradykardie (bis 16%), Plazentalösung (1%), vaginale Blutung (1%), ggf. notfallmäßige Sectio oder lange Überwachung mit folgender ggf. hochakuter Entbindungsindikation, Nebenwirkung von Tokolytika (RR, pulm. Ödem, Tachkardie), Erfolgsquote (Primipara (<60%) / Multipara (<85%))
+Vorteile: Geburten aus nicht-Schädellage (-60%), statistisch Verringerung der Sectiorate
+
+
+
+Aufklärung Einleitung/ Aufklärung ELV:
+Ablauf, Alternativen, Allergien/ Unverträglichkeit, Überstimulation mit O2-Unterversorgung und Schädigung des Kindes, pvk zur Intervention, Notsectio, frustraner ELV, langer Geburtsverlauf, psychische + physische akute und chronische Schädigung von Mutter und Kind, Schmerzen, sek. Sectio; bei Z.n. Sectio/ Myomenukleation Rupturrisiko (1,5% ohne ELV 0.5-1%), keine offenen Fragen
+
+
+Aufklärung Schulterdystokie/ Ablehnung Schulterdystokie/ Ablehnung bei Schulterdystokie:
+Definition, individuelle Risikofaktoren: (Z.n. Schulterdystokie!!! ca. 14%, V.a. Makrosomie bei SG=XXXXg, Diabetes, Adipositas, Gewichtszunahme, Übertragung, Multiparität, verlängerte AP, vag-OP); Wahrscheinlichkeit steigt mit Geburtsgewicht, 4000g=2-3% 4500>10% 5000 >30%,  Fetometrie ist Schätzung, d.h. Geburtsgewicht kann auch deutlich höher/niedriger sein bei Messungenauigkeit und ggf. zusätzlich Messfehler; schwere Komplikationen und wenig Interventionsmöglichkeiten: Asphyxie mit seelischer und körperlicher Behinderung/Tod, Knochen-, Nervenverletzung (v.a. Arm); Entscheidung zur/gegen Sectio (trotz medizinischer Indikation), Grav. Einwilligungsfähig, Partner tendiert eher zu Sectio
+
+
+
+Ablehnung ELV/ Ablehnung Einleitung/ Übertragung/ Terminüberschreitung gegen ärztlichen Rat / TÜ gegen ärztlichen Rat
+Individuelles Risiko für IUFT: >35 Jahre, BMI>25, Nullipara, Raucherin, momentan X Tage der Terminüberschreitung (passende auswählen und mit Grav. besprechen)
+ELV ab 41+3, ELV kann mehrere Tage dauern, Geburtsbeendigung ab 42+0 dringend empfohlen
+Tägliches/zeitliches Ansteigen der Mortalität, Morbidität für Mutter + Kind: 
+IUFT, Sectiorate, vag-OP-Rate, Makrosomie mit Komplikationen, Aspiration, Asphyxie prä-, sub-, postpartu, Azidose, NS-Komplikationen, neurologische Geburtstrauma, periphere Nervenschädigung, Frakturen, Pneumonie, Sepsis, etc -> dadurch entstehende Schäden (Tod, physische und psychische Behinderung)
+Allgemein schlechteres Outcome mit verstrichener Zeit für Mutter und Kind, ärztliche TÜ-Kontrolle sowie Einleitung täglich, ggf. strenge Sectioindikation, abnehmende KBW als akutes Notsignal (jedoch keine sichere Prognosemöglichkeit!)
+Entscheidung gegen ELV trotz medizinischer Indikation, Grav. einwilligungsfähig, Partner tendiert eher zu/gegen ELV
+
+
+
+
+
+Schwangere auf Station
+
+1)	Checkliste Wochenbett Verlegung
+a.	Geburtenblatt mit Naht (in LA, Vicryl, DRU o.B., Instr.+Tupfer)
+b.	Bei kritischem Verlauf -> Doku
+c.	Angaben für Station (Clexane, Nierensono, Sono vor E bei aufgebrochener Plazenta)
+d.	ggf. Übergabe an Wochenarzt
+
+2)	Checkliste Vorzeitiger Blasensprung (Checkliste PROM)
+a.	Visite: WBF, Schüttelfrost, Druckdolenz Uterus, WTK, PVK
+b.	Angaben für Station (5x tgl. Temperatur, 3x tgl. CTG) 
+c.	Temperatur
+d.	CTG: Baselineanstieg
+e.	Labor alle 12 Stunden
+f.	Antibiose GBS- nach 12h, GBS+ sofort
+g.	Einleitung nach 12-24h, dann am 2. Tag selbst untersuchen, ab 3. Tag durch OA 
+h.	Befund: WTK und MM
+
+3)	Checkliste Präeklampsie
+a.	Visite: WBF, Gestosesymptomatik, verbr. PSR, WTK
+b.	Labor alle XX Stunden
+c.	Urin tgl. wenn bis jetzt keine Proteinurie
+d.	sFlt-1/PlGF-Quotient fertig?
+e.	Blutdrücke -> ggf. Medikamentenanpassung
+f.	Einleitung ab 37+0, ggf. schon ab Lungenreife
+g.	Befund: WTK und MM
+
+4)	Checkliste SS-Cholestase
+a.	Visite: KBW, Juckreiz besser?
+b.	Gallensäuren abgenommen/fertig?
+c.	Fehlt Diagnostik?
+d.	Gestoselabor tgl. mit Bilirubin gesamt+indirekt
+
+5)	Checkliste Cervixinsuffizienz
+a.	Visite: WTK
+b.	CTG: WTK
+c.	MiBi fertig?
+d.	Partosure gemacht?
+e.	Cervixschall erneuern?
+f.	Ohne RDS -> Indikation prüfen (WTK)
+g.	Bei RDS -> ?O2 Sättigung, RR, RDS verabreichen?
+
+6)	Checkliste Vorzeitige Wehentätigkeit
+a.	Visite: WTK
+b.	CTG: WTK
+c.	MiBi fertig?
+d.	Partosure gemacht?
+e.	Ohne RDS -> Indikation prüfen (WTK)
+f.	Bei RDS -> ?O2 Sättigung, RR, RDS verabreichen?
+
+7)	Checkliste IUGR
+a.	Schätzgewicht
+b.	Aktuelle Doppler (ggf. mit DV)
+c.	Feindiagnostik
+d.	Erregerdiagnostik
+e.	Ggf. Karyotypisierung
+f.	Präpartalvisite
+g.	Sectioaufklärung
+h.	RDS & Neuroprotektion
+i.	CTGs davon tgl. 1 Oxford-CTG
+
+8)	Checkliste Früher vorzeitiger Blasensprung (Checkliste PPROM)
+
+
+
+
