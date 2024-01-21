@@ -1,0 +1,52 @@
+Telefonumleitung: Dauerdruck grün -> „Bitte wählen“  „*4 NUMMER“ ( Ok  ) „#“   Rufumleitung aufheben: Dauerdruck grün  „#4“ 
+
+Einstechen
+- grün kommen
+- rot gehen 
+- gelb Dienstgang (Verlassen) - grün (Rückkehr)
+- ? Kontoabfrage
+- Stern = Rufdienstanwesenheit
+	Rufdienst elektronisch buchen: Kommen und Gehen mit Stern, ansonsten an Zeitwirtschaft melden
+
+
+Arbeitszeiten
+- F = Frühdienst 7.45 - 16.15 
+- FBR = 7.45 - 16.15, dann Bereitschaftsdienst 16.15 - 20.00 und Rufdienst 20.00 - 7.45
+- FIR = an Freitagen 7.45 - 18.30, dann Rufdienst 18.30 - 8.45  
+- N = Nachtdienst = 15.45 - 23.45, dann Bereitschaft von 23.45 - 7.45 und Arbeit von 7.45 - 8.15
+- NFr = Nacht an Freitagen: 18.00 - 23.45, dann Bereitschaft von 23.45 - 8.45 und Arbeit von 8.45 - 9.15
+- Nft = vor Feiertagen: 15.45 - 23.45, dann Bereitschaft von 23.45 - 8.45 und Arbeit von 8.45 - 9.15
+- Sa = 8.45 - 19.45
+- Sax = 8.45 - 13.15, flexibel weiter bis 18 Uhr, dann Rufdienst ab Ende Arbeitszeit, spätestens ab 18.00 - 8.45
+- NSa = 19.15 - 23.45, dann Bereitschaft 23.45 - 8.45 und Arbeit von 8.45 - 9.15 
+- So = 8.45 - 18.30
+- Sox = 8.45 - 13.15, flexibel weiter bis 18 Uhr, dann Rufdienst ab Ende Arbeitszeit, spätestens ab 18.00 - 7.45
+- NSo = 18.00 bis 23.45, dann Bereitschaft 23.45 - 7.45 und Arbeit 7.45 - 8.15
+
+
+
+Dienstplan: pro Dienstblock: 1xTD (Do+Fr frei) 1xVD (Di+Mi frei) 1x Fr/Sa Nacht (Mo frei) 1x SD-Block, 1x So Nacht; 
+
+Kombinationsmöglichkeiten ND + Rufdienst: 1ND+10RD, 2ND+7RD, 3ND+4RD, 4ND+0RD
+
+
+2x Wunsch ≙ 2 Wochenenden 1x Option
+
+
+Nachtdienst: Geburtenbuch + CTGs, Kreissaalübergabe, OPs, Einbestellungsplan
+
+
+Spätdienst: morgens Konsilliste, Spülmaschine, Aufräumen, U-Zimmer (Sono, Licht, Zusperren, PCs), Labore für OPs nächster Tag abklicken
+
+
+OP-Programm: Montag flexibel // Dienstag Brust // Mittwoch Karzinom + 2 kleine Punkte (1. Mittwoch im Monat flexibel) // Donnerstag Hysterektomie + Beckenboden // Freitag flexibel
+
+
+
+Websiten
+
+TVT-Band: augs.org -> Patient Services -> pop-q-tool // BARD pelvic organ
+
+Tumor (KEM-Standards): https://kem-med.com/wp-content/uploads/2023/03/Therapiestandards-2023.pdf
+ 
+Chemotherapien (KEM-Standards): https://kem-med.com/wp-content/uploads/2023/03/Chemostandards-2023.pdf

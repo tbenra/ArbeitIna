@@ -1,0 +1,247 @@
+STATION GYN STATION
+
+1)	Visite (4/4Q, Klopfen, Tasten), Angaben (z.B. DK ex vor Visite/direkt nach Mobilisation)
+2)	präOP/postOP-Angaben in Kurve gemacht? (Aufnahmediagnose, Allergien -> Antibiose, Abführprogramm immer bei eröffnetem Peritoneum, Medikamente)
+3)	Restharnsono, Nierensono ausstehend?
+4)	Terminbuch: Einbestellungen für nächsten Tag
+5)	Brief + Gyn/Brust-Tumorboard anlegen für Freitag bis spätestens Mittwoch (Arbeitsliste -> Tumorboard Missio) + Termin für Patienten in der Woche nach Tumorboard 
+
+Ablauf Gyn Station:
+-	Wer geht in welche OP?
+-	WICHTIGSTE: Vormittags präOP mit OA sehen + präOP-Angaben (Antibiose, Hausmedis) + Nierensono + Labor checken (Brief + ggf. Tumorboard anlegen) CAVE: Blutverdünner? Östrogensierung?
+-	OP assistieren + Brief schreiben + postOP-Angaben mit Hausmedikation + Aufnahmediagnose + postOP-VISITE + ggf. postOP Tumorboard anlegen 
+-	Abschlussuntersuchungen mit OA
+-	Visite
+-	Sonos: Nierensonos 1. Tag, RH-Sono nach DK ex, 
+-	Labor abklicken (Gyn von heute)
+-	Ca, 13:00 Uhr Kurvenvisite ggf. absprechen mit Kollegen und dann Briefe vervollständigen mit Tagesverlauf, OP-Berichte anlegen
+-	Ops für nächsten Tag (Labor, Aufnahmebogen, Diagnose Hausmedikation, präOP-Angaben)
+-	„Arbeitsliste“ „Info an Arzt“
+-	Tumorboards anschauen
+-	Aufnahmediagnosen; QS Gyn/Mamma
+-	FREITAG: WE vorbereiten, Briefe fertig machen und ggf. schon vidieren, Übergabe schreiben
+-	MONTAG: PräOP Mamma überprüfen: Aufklärung; Histo (1xPräparat 1x Sentinel: Schnellschnitt, Telefonnummer von OP-Saal); Tastbar – nicht tastbar: Drahtmarkierung (sonografisch/Röntgen), Präparateradiografie angemeldet, wenn nicht markierbar –> RS Operateur, präOP-Angaben (Antibiose, Medis, Allergien)
+-	MONTAG: Rücksprachen Pathobefunde vorbereiten
+
+
+
+Tumorboard: OPs letzter 2 Wochen durchklicken und Histo anschauen, Tumorboardliste anschauen
+
+Entlassung Mamma: Wickel, Drainage, Nachbesprechungstermin, Tumorboard, Rezepte, AU
+QS / Qualitätsmanagement/ Qualitätssicherung: Qualitätssicherung -> Arbeitsliste -> Bogenstatus: Fehlende Bögen -> Modul
+-	Mamma (18-1): 
+Drahtmarkierung? -> nach RIS Radiologieanforderung schauen
+-	Gyn (15-1) -> macht Stationsassistenz
+-	Geb (über Nexus)
+
+Kreuzblut/ Blutgruppe: Sacrospinale, Myomenukleation, Lymphknoten an großen Gefäßen
+Bei DK + Infekt -> U-Status + Kultur!
+OPERATION, OP-DOKU: OP-Doku (PC – Operateur, Diagnosen, Procedere + 2 Aufkleber in Buch), OP-Bericht schreiben -> Vidierliste OA
+Gonokokken (Neisseria gonorrhoeae, Tripper): Abstrich mit normalen PCR-Test ohne Eintauchmedium (wie bei Covid) an Bioscensia
+Robinsondrainage ex/ Robinson ex: <100ml, blutig-serös, erst nach Mobilisation, nicht 1. Tag postop
+Diarrhö durch Antibiotika/ Antibiotika-assoziierte Diarrhoe/ Durchfall durch Antibiotika               (CAVE: C. difficile): Omniflora N 2-2-2 zur Mahlzeit (Probiotika/ Probiotikum)
+Diarrhoe im Alter: Kalium überprüfen!
+
+Blähungen/Flatulenzen/ Gas nach LSK/ Gas im Bauch/ Völlegefühl/ geblähter Bauch:
+Lefax (Simeticon) bis 4x tgl 1-2 Kautabletten (auch in der Schwangerschaft)
+
+Anticholinergika: Ubretid? Biperiden? VIELLEICHT FALSCH
+Rezept Bauchbinden zur Wechselversorgung/ Rezept BH zur Wechselversorgung auf Rezept bei 2. Bauchbinde/BH
+Nach Brust-OP: Psychoonko läuft von allein nur bei Brustzentrum, Steristrips fallen ab, BH ohne Bügel, für 6 Wochen keine einseitigen Armbewegungen (Tragen, Staubsaugen)
+
+Bakterielle Vaginose /Dysbiose – Therapie nach Leitlinie:
+Clindamycin: 300 mg p.o. 2x tgl. 7d // 2% Creme 1x tgl. 7d // 100mg Ovula 1x tgl. 3d
+Metronidazol: 500 mg p.o. 2x tgl. 7d // 0,75% Gel (5g Applikator) 1x tgl. 5-7d // 100mg Ovula 1x tgl. 6d // 1g Ovula 1x tgl 2d
+Antiseptische Alternativen: Dequaliniumchlorid 10mg 1x tgl 6d // Octenidin 1 Sprühstoß tgl. 7d (// Provido-Iod 1 Applikatorfüllung 1x tgl. 7d -> CAVE: eingeschränkt Wirksam, nicht während SS)
+
+
+Vaginale Mykose:
+KadeFungin 3 Kombi-Packung
+
+Schmerztherapie Gynäkologie:
+Standard: Ibu + Novalginperfusor 24h, PCM + Piritramid b.B.
+Längslap/Carcinom: Hydromorphon 2mg Tbl. Zur 1./2. Nacht
+Z.n. PDK/ Intensiv: Palexia (=Tapentadol) 50mg retard 1-0-1 für 1/2 Tage, dann ausschleichen
+CAVE: Opioide immer mit Movicol und Stuhlgang kontrollieren
+
+Chemotherapie in domo/ Chemo organisieren/ Chemo bestellen/ Ablauf Chemo:
+1)	Vorbereitung : Differentialblutbild (Hb, Thrombos>100, Neutrophile>2, GFR, Gesundheitszustand?), Aufklärung, Chemobrief anlegen
+2)	Bestellen: Zenzy (mein Zugang geht nicht? Klären mit EDV!); Diagnose, Krea, Gewicht, Größe (aus Pflegestatus), Station; Therapieprotokoll -> über Einzelwirkstoff Schema suchen -> Datum richtig -> 2x Drucken (Therapieplan) -> Speichern + Übertragen
+3)	Chemoschwester Terminplan: bei Chemoschwester anrufen (Chemoschwester Helene 7064), (ggf. im Terminbuch über Ambulante Chemotherapie eintragen, wird von Chemoschwester gemacht)
+4)	Vorbereitung (am Tag vor der Chemotherapie): In Apotheke anrufen ob Chemo da ist
+5)	Vorbereitung (am Tag der Chemotherapie): Bei Apotheke anrufen und Chemo freigeben (ggf. nach Untersuchung der Pat. Infekt? Lunge abhören) 
+6)	Chemo verabreichen: Gewicht, Größe, Wirkstoffmenge, etc. überprüfen und Chemo anhängen
+7)	Immer Freitexteintrag über derzeitigen Stand
+Vor Chemotherapie: Herzecho und EKG ggf. vor Gabe von Taxanen (eher in Rücksprache)
+
+
+BRCA/HRD- Testung bei Ovarialkarzinom (beides am Tumorgewebe):
+(Indikation: fortgeschrittenes, oder high grade seröses Ovarial CA)
+1)	Antragsformulare: Molekularpathologie UKW -> Antragsformular -> Antrag auf Zusatzuntersuchung -> 1 Antrag für BRCA (via Fax an Praxis Schöttker Pretscher und an UKW, 1 Ausdruck für Akte) und 1 Antrag für HRD vorbereiten (in Akte) (Ausfüllen: Name, Pathonummer, BRCA oder HRD, Stempel, Befund nachrichtlich an: Sekreteriat Gynäkologie Missionsärztliche Klinik Würzburg, Fax: 0931/791-2616
+2)	Vorbereiten HRD-Testung (2 PDF in Ordner „Müller“) mit einer Unterschrift von Pat. (auch in Akte zum Antrag für HRD-Testung)
+3)	Pat. muss zu Praxis Schöttker/Pretscher mit KV-Kärtchen (diese schicken Überweisungsschein an die Patho UKW), am Besten noch in Praxis anrufen und Bescheid geben über gesendes Fax und benötigten Ü-Schein
+4)	Immer Freitexteintrag über derzeitigen Stand sowie auch als Korrekturvorschlag in den entgültigen Brief (siehe jm_Visite_BRCA) und in vorläufigen Brief bei Diagnose: „BRCA (sowie ggf. HRD) ausstehend“
+ggf. 5) Falls BRCA negativ muss Pat. erneut zu Schöttker und Überweisung für HRD-Testung besorgen und vorbereitetes Antragformular + unterschriebene Einwilligungserklärung an UKW gefaxt werden
+
+NOTFALL EUG/ NOTFALL Extrauteringravidität/ Notfall Tubengravidität/ Notfall Eileiterschwangerschaft:
+Symptome: Abdomen, Synkope, Schock, vag. Blutung, PSS, beta-HCG>5, beta-HCG> 2.000 + keine Fruchthöhle (außer bei künstlicher Befruchtung Fruchthöle bei heterotropher SS gut möglich), freie Flüssigkeit; (Ruptur zwischen 5+0 – 16+0 SSW, je später desto schlimmere Blutung)
+Akut: 2 pvk + Kreuzblut + OP + Nachkontrolle beta-HCG?
+Chronisch: beta-HCG Kontrolle?
+
+
+Aufklärung LSK/ Aufklärung Ovariektomie/ Aufklärung Adnexektomie/ Aufklärung Oophorektomie/ Aufklärung:
+Indikation, Alternativen, Ablauf, LSK, quer-, längslap. mit Verfahrenswechsel, Bergeschnitt, auch hinsichtlich Infektionen, individuelles Risiko für Wundheilungsstörung, ästhetische Unzufriedenheit, Keloid, Haut, Nerven, Gewebe, Lagerungsschaden (Dekubitus, Neuropathie, Kompartmentsyndrom); Verletzung umliegender Organe und Versorgung (Gefäße, Nerven, Darm, Harnblase, Harnleiter, etc.->   Hysterektomie, Anus pr., Nierenfistel, Harnleiterschienung, Darmlähmung, Adnexektomie bds mit Wechseljahren und Hormonmangel, etc), Re-OP; Blutung, Nachblutung, Hämatom, Transfusion (HIV, Hep, …), Re-OP; Neue Adhäsionen, Adhäsiolyse, Bedeutung von Hernien; Thrombose, LAE, Heparin (Allergie, HIT, Blutung v.a. bei Sturz, keine selbstst. Mobilisation), Cystitis bei DK, Schmerzen akut, chronisch, Schulterschmerz, Blähungen, Beschwerdepersistenz, R1, R2, Tumorverschleppung mit Prognoseverschlechterung z.B. bei Zystenruptur, 
+danach: Aufwachraum, DK, Drainagen (für ca. 1-2 Tage), Knistern, Schmerzen, (6 Wochen) Schonung, Warnsymptome (Fieber, Schmerzen, Kreislauf, Übelkeit, etc.), 
+
+Aufklärung LSK bei Endometriose - Zusatz:
+Harnleiter freilegen, Darmresektion, Blasenresektion, etc. ausgedehnte PE mit erhöhter Komplikationsgefahr, ausgedehnte Adhäsiolyse
+Größe des Herdes muss nicht mit Beschwerdestärke übereinstimmen; ggf. Verzicht auf Entfernung von großen/tiefen Endometrioseherden an Darm, Blase, Harnleiter etc. oder nicht sichtbaren Endometrioseherden -> Beschwerdepersistenz und diagnostischer Eingriff mit ggf. Folgeoperation
+
+Angaben Tumorpatienten/ Angaben Palliativ: Frescubin, …
+
+Lagern LSK/ Lagerung LSK: Beine wie Sectio, DK, Elektrode, Abdecken, Kopfstütze und Fixieren
+
+
+
+Aufklärung Plastik/ Aufklärung vordere Plastik/ Aufklärung hintere Plastik:
+Siehe Aufklärung vorderes Netz
+
+Verletzung umliegender Organe (Blase, Harnleiter, Harnröhre, Darm, Vulva, Uterus, Eileiter, Ovarien), intraoperative Sanierung, ggf. Re-OP, Nierenstau, Harnstau, mit DK, suprapubischen DK, HL-Schiene, konsekutiv Nierenschäden, Re-OP, Künstlicher Darmausgang für 6-8 Wochen, Blutung, Nachblutung, Hämatomausräumung, EKs, Schmerzen, Taubheit auch in Scheide, sexuelle Empfindungsstörung, Steißschmerzen bei sakrospinaler, Stuhl-, Harninkontinenz v.a. in Anfangsphase, Nachkontrolle in 3 Monaten, ggf. OP mit TVT-Band bei Harninkontinenz, Thrombose, LAE, i.m.-Thromboseprophylaxe, Allergie, Unverträglichkeit, Haut-, Nerven-, Gewebeschäden, Infektion, Entzündung, Wundheilungsstörung mit Fistelgängen auch später erst, Verwachsungen, Verklebungen, Tumorverschleppung, HE, Bedeutung der körperlichen Schonung und Nachsorge mit Östrogencreme
+VMR: 4 Wochen Schutz vor aufsteigenden Infektionen, 3-4 Wochen WV bei FA, Ovestin 2 Wochen 3-4x tgl. und dann 6 Monate 1x tgl. (CAVE: KI für Hormontherapie bei Z.n. gyn. Tumoren)
+VMR bei AU: Schonung und kein Sport für 4-6 Wochen, dann WV bei FA, Duschen und Baden zuhause i.O., sonst wie im Wochenbett, bei eingelegtem Fremdmaterial WV in 3 Monaten bei uns, maximal 5kg heben; AU für 4 Wochen, ggf. sitzende Tätgkeit schon früher;
+
+Aufklärung TVT-Band:
+Ablauf: Von Vaginal wird Scheidenvorderwand eröffnet, Ein Bändchen wird unter die Harnröhre gelegt und an Bauchdecke befestigt, steht in Ruhe nicht unter Spannung, bei Belastung wie Husten leichter Druck auf Harnröhre, was Harn zurückhält und Sphinkter entspricht; postOP: Tamponade mit Fremdkörpergefühl, Blasenkatheter, leichte Schmerzen an Aufhängung der Bauchdecke; Stationär für ca. 1-2 Nächte
+Risiken: Indikation, Ablauf, keine Verbesserung oder Überkorrektur mit Harnverhalt, konsekutiv Nierenschäden, Banderosionen v.a. Scheide und Harnröhre, Abstoßung akut bis hin zu Jahren, Schmerzen, Gefühlsstörungen in Ruhe, bei GV, etc. Infektion, Wundheilungsstörungen, Blutung, Nachblutung, Hämatom, Harnstau, Re-OP, Limitation: Rektozele, Zystozele, Prolaps, Dranginkontinenz, etc., keine Fragen
+
+Aufklärung vorderes Netz:
+Ablauf: Scheidenvorderwand/Hinterwand mit Schnitt eröffnet, stumpfe Präparierung bis Kreuzbein, dann Fixation am Lig. Sacrospinale, Raffnähte vorne/hinten, Verschluss der Scheidenwand; Aufwachen mit vaginalem Druckgefühl durch Tamponade und DK; In nächsten Tagen DK und Tamponade ex, dann Restharnsonografie um Blasenfunktion zu prüfen, Anfangs Blasenentleerungsstörung möglich, dementsprechend regelmäßig auf Toilette gehen
+Risiken: Lagerungs- Haut- Nerven- Gewebeschäden, Verwachsungen, Verklebungen, Blutung, Nachblutung, Hämatom (v.a. nach Tamponadenzug) ggf. operative Entlastung und Transfusionen, Netzabstoßung akut oder nach Jahren (selten), Blasenentleerungsstörung mit konsekutiven Nierenschäden, ggf. DK, suprapubischer, etc., Re-OP mit Netzentfernung, Darmverletzung mit im schlimmsten Fall künstlicher Darmausgang, Inkontinenz, …, offene chirurgische Versorgung, andere Organe wie Blase, Harnleiterschienung, etc. mit Versorgung, Allergien, Thrombose, LAE, Clexane + Risiken, Infektionen, Wundheilungsstörungen, Fistelgänge (v.a. Blase Darm – Vaginal), Re-OP, Keloid mit Beschwerden, Schmerzen, Steißschmerzen, Taubheit, sexuelle Empfindungsstörung, (keine bösartigen Zellen erwartet,) Verschleppungsgefahr, ggf. PE, Hygiene, Schonung, VMR und individuelle Bedeutung von Östrogencreme; individuelle Erfolgsaussichten, Kontrolle in 3 Monaten, Harninkontinenztendenz, Indikation zur Re-OP mit z.B. TVT-Band, etc.
+
+
+Kreislauf, Blutdruckabfall wegen Blutverlust -> Akrinor 1 Ampulle auf 10 ml NaCl -> 0,5 Ampulle geben // Tranexamsäure 2g bei normalgewichtiger Frau
+
+
+Ambulante OPs / Ambulante Operationen: Konisation, HSK, Polypen, HSK/Myomenukleation (bis ca. 2cm), Diagnostische LSK, TS,
+Stationäre OPS: Endometriumablation (z.B. Thermablade), kleine Vulvaeingriffe, Hysterektomie, Descensus, Mamma-OP ohne Sentinel
+Vorstationäre Aufnahme: große KarzinomOPs, Risikopatienten bei ausreichender Dokumentation
+
+Lagerung bei LSK/ Lagerung bei Lapraskopie: Beine wie Sectio, Elektrode, Hände einwickeln und an Pat. gelagert, Kopfstütze + Fixierung, DK, Abdecken
+
+Port anstechen: bei dünnen Patientinnen G20 (15mm) Nadel, 2 Moltex unterlegen, Handschuhe öffnen, darauf Nadel, 4 sterile pvk-Pflaster, NaCl, Port 3x desinfizieren und abwischen, dann gut fixieren und senkrecht anstechen, Spülen, festkleben, Schutzkappe
+
+OP mit Herzschrittmacher/Pacemaker: immer mit Anästhesie Rücksprechen, grundsätzlich muss man ihn nicht ausschalten wenn kein Defibrillator verbaut ist, möglichst bipolar arbeiten, Monopolar möglich bei genügend Abstand
+
+Blutung bei Tamponadenzug / Blutung nach Tamponade ex (Schmerzen bei TVT-Band): OA: Speculum und Palpation, TAUS und TVUS: TVT-Band liegt zwischen mittlerem und distalem Urethradrittel, Bandverlauf gut einsehbar, regelrecht, kein Hämatom im Bandverlauf, kein Hämatom am Scheidenabschluss, keine freie abdominelle Flüssigkeit
+
+BRCA-Testung: ist Keimbahntestung -> Blutuntersuchung (nicht in der pathologischen Präparatuntersuchung)
+
+Restharnsono: normal <100 ml // <200 ml DK oder ggf. vorrübergehend medikamentöse Therapie möglich // >200 ml immer DK 
+(bei TVT-Band: auch nach Bauchdeckenhämatom schauen)
+
+
+Nierenversagen: Stundenurin
+
+
+
+
+
+
+
+
+OP-Standards / OP Standards
+
+
+Allgemeine Infos PräOP: 
+> 40 Jahre: EKG, > 60 Jahre: RöntgenThorax , < 50 Jahre: HCG qualitativ (außer Abort) 
+Labor maximal 7 - 0 Tage und Aufklärung maximal 14 Tage alt 
+Nüchtern - OPs (kommen 7.30 Uhr am OP - Tag, privat 7:00 Uhr)
+
+Hausmedikation:
+- Metformin 48h vor OP absetzen, 48h nach OP wieder ansetzen, BZ-Kontrollen , ggf. Insulin 
+- Sulfonylharnstoff: am OP-Tag ggf. Vorabend absetzen
+- SGLT2-Inhibitoren: 48h präOP absetzen, postOP ansetzen
+- Lithium:  72h präOP absetzen (CAVE: Nierenversagen und Elyte)
+- Diuretika am OP-Tag absetzen
+
+Gerinnungshemmende Medikamente: 
+- ASS /Clopidogrel/Prasugrel: vor größeren Eingriffen mit hohem Blutungsrisiko 5 - 7 Tage pausieren , schnellstmöglich wieder ansetzen, Heparin kann die Funktion der Thrombozytenaggregationshemmer nicht ersetzen! 
+- Marcumar: bei niedrigem Blutungsrisiko nicht absetzen, sonst 4-7 Tage vor OP absetzen, Bridging mit Heparin durch Hausarzt, Ziel-INR vor OP ca. 1,5, Antagonisierung im Notfall mit PPSB, ggf. Vitamin-K prä-OP (wirkt erst nach 6-12h)
+- DOAKs (Rivaroxaban, Dabigatran , Apixaban ): Absetzen je nach Blutungsrisiko (gering: nicht absetzen, niedrig: 24h vor OP, hoch: 48h vor OP) , kein Bridging!, ggf. Antagonisieren, postop so früh wie möglich wieder beginnen (je nach Blutungsrisiko nach 12 - 72h) , überbrückend NMH nicht empfohlen, bei größeren OPs mit hohem Thomboserisiko ggf. prophylaktisch NMH bis Vorabend der Wiederaufnahme der DOAK - Therapie 
+- Fondaparinux (Arixtra): Absetzen je nach Nierenfunktion 36-42h vor Eingriff, postOP frühestens 6h nach Eingriff
+
+„Schmerzmedikation kleine Eingriffe“:
+Ibuprofen 400mg oral oder Paracetamol 1g i.v. bei Bedarf, bei starken Schmerzen Piritramid 7,5 mg s.c.; CAVE: bei Opioidbedarf 6h Überwachung also ggf. weitere stationäre Behandlung
+
+„Schmerzmedikation nach Standard“: 
+Tag 0: bei Vollnarkose immer Novalginperfusor mit 2,5g ab Aufwachraum, Laufrate 2 - 4 ml/h bis zum nächsten Morgen (1 - max. 2 Spritzen, CAVE Novalgin kann leicht kreislaufdepressiv wirken), (ggf. auf Station bald 7,5 mg Piritramid s.c.) (Novalginperfusor am 1. Tag wieder absetzen)
+Tag 1: (ggf. selten Targin retard oral 10/5 bis 20/10 max. 2x/d) Ibuprofen 400 mg 1-1-1 + Nexium (Esomeprazol 20mg 1-0-0), Dosisreduktion während stat. Aufenthalt, 
+
+ „neues Abführprogramm“:
+Tag 0: postOP nüchtern, Wasser+Tee 
+Tag 1: Aufbau 2 (Weißbrot, kleine Portion Mittag, Fencheltee, kein Kaffee); 1000ml Ringerlösung + 2 Amp Paspertin; Abend Laxoberal 12-20 gtt 
+Tag 2: Aufbau 3 (größere Menge), 
+Tag3: leichte Vollkost, Kaffee 
+Tag4: Vollkost 1
+
+Defizite zur Begründung weiterer stationärer Behandlung: i.v.-Schmerzmittelbedarf, bei Opioid-Bedarf min. 6h Überwachung, Kreislaufinstabilität, Infektion, OP-Komplikationen, keine häusliche Betreuung gewährleistet, langer Anfahrtsweg zu nächstem Krankenhaus, …
+Anpassungen bei Niereninsuffizienz:
+Diclac zurückhaltend, ggf. 50mg, kein Ibu sondern Paracetamol, kein Clexane sondern Heparin 2x tgl.
+
+
+Vorbereitung HSK/Abrasio / Vorbereitung Abortabrasio / Vorbereitung hysteroskopische Myomenukleation <2cm / Vorbereitung Konisation - Standards
+Prä-OP: präOP-Labor (bei Abort ggf. Blutgruppe, bei Konisation Kolposkopie) 
+Post-OP: ggf. Anti-D bei Abort, BB nach 2h; „Schmerzmedikation kleine Eingriffe“
+Entlassung: OP-Tag, WV in domo in 2 Wochen bei Konisation oder auffälligem Befund
+
+Vorbereitung Endometriumablation / Vorbereitung Thermablade / Vorbereitung hysteroskopische Myomenukleation >2cm - Standards
+Prä-OP: präOP-Labor 
+Post-OP: präOP ohne Gerinnung vor E; „Schmerzmedikation kleine Eingriffe“
+Entlassung: Folgetag
+
+Diagnostische Vorbereitung LSK / Vorbereitung Chromopertubation / Vorbereitung Tubensterilisation - Standards
+Prä-OP: präOP-Labor; Nierensono; Chromo nur in 1. Zyklushälfte zwischen 5.-10. Tag 
+(Anamnese bei LSK wegen Kinderwunsch: Primär/sekundäre Sterilität, gleicher Partner?, KiWu seit? Spermiogramm? Gerinnungsdiagnostik? Strichcurettage?)
+Post-OP: präOP ohne Gerinnung vor E; „Schmerzmedikation kleine Eingriffe“
+Entlassung: OP-Tag nach Nierensono (?)
+
+
+Vorbereitung Laparoskopie - Standards
+Prä-OP: präOP-Labor, (Blutgruppe und quantitatives beta-HCG bei EUG,) U-Status; Nierensono; Bauchnabeldesinfektion mit Octenisept auf Station
+Post-OP: präOP ohne Gerinnung an Tag 1, (quant. beta-HCG und ggf. Anti-D bei EUG); „Schmerzmedikation kleine Eingriffe“ mit Ibu oder Paracetamol fest 3x tgl., bei ausgedehnteren Eingriffen „Schmerzmedikation nach Standard“
+Post-OP Angaben: DK ex nach Mobilisation (ggf. direkt post-OP); ATS; Clexane 0,2 - 0,4 ml/d s.c; Drainage ex nach ärztlicher Angabe 
+Entlassung: Tag 1 – 3 nach Nierensono (an Tag 1?) (v.a. Adnexeingriffe)
+Vorbereitung TVT-Band – Standards
+Prä-OP: präOP-Labor; Nierensono
+Post-OP: präOP ohne Gerinnung vor E; „Schmerzmedikation kleine Eingriffe“ mit Ibu oder Paracetamol fest 3x tgl.
+Post-OP Angaben: DK und ggf. Tamponade ex am Folgetag in RS OA!
+Entlassung: am Folgetag nach RH-Sono, ggf. Introitussono mit Lagekontrolle Band, auf Hämatome achten, Nierensono mit TAUS auch auf Bauchdeckenhämatom schauen!; vorher AU durch OA; lokale Östrogeniserung
+
+Vorbereitung Hysterektomie (vaginal, abdominal, TLH, LASH) Vorbereitung HE- Standards
+Prä-OP: präOP-Labor, Blutgruppe, U-Status, Nierensono; Klysma und Traumasept-Zäpfchen vaginal für Vorabend mitgeben; i.v.-Antibiose mit in den OP (2g Cephazolin oder 600 mg Clindamycin) 
+Post-OP: präOP-Labor ohne Gerinnung an Tag 1; „Schmerzmedikation nach Standard“ und zusätzlich 100 mg Diclofenac supp. rektal im OP bei Spinalanästhesie
+Post-OP Angaben: DK ex nach Mobilisation am Folgetag, ATS, Clexane 0,2 - 0,4 ml/d s.c., ggf. Drainage ex nach ärztlicher Angabe, „neues Abführprogramm“
+Entlassung: nach Nierensono an Tag 1; LASH ab Tag 3; TLH und vag. HE ab Tag 4; abdominelle HE ab Tag 5; vorher AU durch OA
+
+Vorbereitung Vordere / Vorbereitung hintere Plastik / Vorbereitung Plastik/ Vorbereitung sacrospinale Fixation / Vorbereitung Netze – Standards (Netz nur bei Rezidiv oder stark ausgeprägt, Fixation bei Deszensus)
+Prä-OP: Anamnese (Geburtshilflich, Urogyn-Anamnese, lokale Östrogenisierung 6 Wochen präOP, Blutverdünner), bei RH-Gefühl  RH-Sono, präOP-Labor, U-Status, CAVE: bei Kolposakropexie 2 EKs bestellen; Klysma am Vorabend mit nach Hause geben; Antibiose mit in den OP (2g Cephazolin oder 600 mg Clindamycin) 
+Post-OP: präOP-Labor ohne Gerinnung an Tag 1; „Schmerzmedikation nach Standard“ und bei Spinalanästhesie zusätzlich 100 mg Diclofenac supp. rektal im OP
+Post-OP Angaben: DK ex nach Angabe Operateur (dann RH-Sono), ggf. Tamponade ex am Folgetag, ATS, Clexane 0,2 - 0,4 ml/d s.c., Drainage ex nach ärztlicher Angabe, Movicol 1-1-1, ggf. „neues Abführprogramm“ bei Hysterektomie (und Sakrospinaler Fixation?), Ovestincreme 1x tgl. 
+Post-OP Angaben (Bauer/Sabine): Diclac 100mg, Estriolcreme (CAVE bei Z.n. Karzinom), Macrogol, Piritramid, Novalginperfusor, DK ex an Tag 4 / Tag 1, RH-Sono nach DK ex, Nierensono an Tag 1, Clexane, BE ohne CRP, Tamponade ex an Tag 1 oder 2,
+Entlassung: Restharn-Sono nach DK ex, Nierensono 1 Tag nach DK ex, Entlassung individuell Tag 3 - 7; vorher AU durch OA , Ovestin weiter nach Entlassung CAVE: Ovestin bei Z.n. Karzinom
+
+
+Vorbereitung Karzinom-OPs - Standards
+Prä-OP: bei großen Karzinom-OPs prästationäre Aufnahme, präOP-Labor, U-Status, 2-4 EKs je nach Eingriff, Aufklärung, Histozettel, Medikamente angeben + Hausmedikation, präOP-Tumorboard?, postOP-Tumorboard anlegen, NIERENSONO, Abführen RS Operateur: Trinklavage mit Plenvu am Vortag 15 Uhr (1L+1L Wasser) oder Klysma am Vorabend, Mittags Flüssigkost, Abends nüchtern, Messen des Bauchumfangs für Bauchbinde bei Längslap und Rezept mit in den OP; Antibiose mit in den OP (2g Cephazolin oder 600 mg Clindamycin)
+Post-OP: präOP ohne Gerinnung an Tag 1; „Schmerzmedikation nach Standard“ ggf. PDK und Intensivstation 
+Post-OP Angaben: DK ex nach Angabe Operateur (nach Wertheim DK meist länger belassen, danach RH-Sono), ATS, Clexane 0,4 ml/d s.c., Drainage ex nach ärztlicher Angabe, „neues Abführprogramm“ nach RS Operateur, Psychoonkologie und ggf. Sozialdienst (Anmeldung Orbis); KG großzügig; bei Vulva-CA: Lymphdrainage 
+Entlassung: Nierensono an Tag 1; RH-Sono bei Wertheim; Entlass Tag ist individuell; vorher AU durch OA, Klammern ex Tag 9-11  (erst Teilklammern ex) , Thromboseprophylaxe für 4 Wochen , Folgetermin für Besprechung des Tumorboardbeschlusses, Bauchbinde für maximal 6 Wochen, falls Chemo geplant: Termin Port, Termin Chemo in domo oder Schlag/Schöttker, dann ggf. Entlassungsbrief auch an Praxis Schlag/Schöttker
+
+Vorbereitung Mamma – Operationen/ Vorbereitung BET/ Vorbereitung Mastektomie
+Prä-OP: Aufklärung ggf. mit Sentinelaufklärung bei Radiomarkierung, (bei Sentinel prästationäre Aufnahme,) präOP-Labor; Drahtmarkierung? Präparateradiographie anmelden? Staging komplett (CT Thorax/Abdomen, Mamma-Sono, Stanze, SkelettSzintigrafie) präOP-Tumorboard?, Neochemo? (Schlag/Schöttker), Medikamente + Hausmedikation angeben, Antibiose mit in den OP (2g Cephazolin oder 600 mg Clindamycin), Pathozettel Mamma, Psychoonkologische und sozial Betreuung
+PräOP Mamma überprüfen: Aufklärung; Histo (1xPräparat 1x Sentinel: Schnellschnitt, Telefonnummer von OP-Saal); Tastbar – nicht tastbar: Drahtmarkierung (sonografisch/Röntgen), Präparateradiografie angemeldet, wenn nicht markierbar –> RS Operateur, präOP-Angaben (Antibiose, Medis, Allergien)
+Post-OP Standard Judith: Mamma-Standard ohne Novalginperfusor, ATS, Drainage ex nach Angabe, Brustwickel ex nach Angabe (ggf. 1. Tag bei Lobektomie), kein Novalgin, kein Clexane, kein Labor
+Standard vor Judith: Post -OP: präOP ohne Gerinnung an Tag 1; „Schmerzmedikation nach Standard“, ggf. bei kleinen OPs (Mamma-PE) kein Novalginperfusor (RS Operateur),
+Post-OP Angaben: ATS, Drainagen ex nach ärztlicher Angabe, Brustwickel ab am Folgetag, Psychoonkologie und ggf. Sozialdienst (Anmeldung Orbis), Info an Firma Klopf , postOP-Tumorboard anmelden
+Entlassung Mamma: nach Drainagenzug, Fadenzug Tag 7-10, WV in der Brustsprechstunde 2 Wochen nach OP, Physiotherapie; Krankmeldung, Brief, Tumorboard anlegen für Freitag nach OP, Termin ausmachen 1 Woche später,
+
